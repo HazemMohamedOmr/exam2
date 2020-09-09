@@ -1,0 +1,75 @@
+/* // Common // */
+
+h5{
+    font-size: 15px;
+    font-weight: 600;
+    color: #787878;
+}
+
+.alert{
+    padding: 0.30rem 1.25rem;
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* // Section 1 // */
+
+.sec{
+    padding: 35px 0;
+}
+
+.sec .big-boi{
+    width: 65%;
+}
+
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.sec .cont{
+    background-color: #e9ecef;
+    padding: 50px;
+}
+
+/* // Section 2 // */
+
+#music{
+    color: #000;
+    font-size: 7rem;
+    line-height: 500px;
+}
+
+.section2{
+    transition: background-color 0.3s ease;
+}
+
+/* // Section 3 // */
+
+.count-cont{
+    color: #fff;
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    border: 3px solid #fff;
+    position: relative;
+}
+
+.circle .span1{
+    font-size: 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -85%);
+}
+
+.circle .span2{
+    font-size: 14px;
+    text-transform: uppercase;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 20%);
+}
